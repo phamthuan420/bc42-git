@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../BC42_Samar _PHAMVANTHUAN"
+		},
+		{
+			"path": "../botstrap"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BC42-GETI"
+	}
+}
